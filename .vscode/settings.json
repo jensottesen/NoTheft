@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/904268fc-265c-4136-9615-36be6bd20eac/microsoft.web/sites/subscriptions/904268fc-265c-4136-9615-36be6bd20eac/resourceGroups/JEOT/providers/Microsoft.Web/sites/NoTheft",
+    "appService.deploySubpath": "wwwroot"
+}
